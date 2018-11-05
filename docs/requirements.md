@@ -63,4 +63,6 @@ indicate that they were shared).
 * Allow users to save drafts of entries. Only display published entries.
 
 
-Good luck!
+## If you have questions or get stuck...
+
+Use Slack. We will be looking for messages throughout the day.
