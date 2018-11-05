@@ -48,6 +48,8 @@ content if you wish, as The Setup Wizard has done.
 Once you have the basic site working, you can begin to add features to make it
 more interesting and robust. Here are a few suggestions:
 
+* Include a WYSIWYG editor so that users can apply basic styling to their text.
+
 * Add different content types in addition to text. Quotes and link are simple
 variations on the text content you've already done. Photos are a bit more of a
 challenge if you allow uploads, simpler if you require users to link to photos.
