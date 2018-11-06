@@ -33,8 +33,9 @@ Display all entries, most recent at the top, in your welcome.blade.php view.
 
 For each entry, display a title, the name of the author, and what they wrote.
 
-In home.blade.php, give logged-in users the forms they need to create and edit
-entries. It's okay for Bob to make changes to Chuck's content at this point.
+In home.blade.php, give logged-in users the forms they need -- or links to those
+forms, if you've created separate views - to create and edit entries. It's okay
+for Bob to make changes to Chuck's content at this point.
 
 ```
 8. Design:
