@@ -17,10 +17,11 @@ and displays the most recent entry first.
 4. Add authentication to your project.
 5. You'll need to design a database for your project. Create migrations
 for your tables.
+6. Save your work in a public Github repo.
 ```
 
 ```
-6. Behavior:
+7. Behavior:
 ```
 
 You only need to support text entries at first.
@@ -36,7 +37,7 @@ In home.blade.php, give logged-in users the forms they need to create and edit
 entries. It's okay for Bob to make changes to Chuck's content at this point.
 
 ```
-7. Design:
+8. Design:
 ```
 
 Give your site its own look and feel. You don't have to rely on Bootstrap for
@@ -63,6 +64,12 @@ entries.
 indicate that they were shared).
 
 * Allow users to save drafts of entries. Only display published entries.
+
+## Turning in your work
+
+Your project is due at noon on Wednesday, November 7. To turn in your work,
+add a link to your Github repo to your index file in the Class Notes project.
+Merge your branch into dev; no need to wait for +1s for such a small change.
 
 
 ## If you have questions or get stuck...
